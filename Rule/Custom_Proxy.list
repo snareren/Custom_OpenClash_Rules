@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,kr.battle.net
 DOMAIN-SUFFIX,tw.battle.net
 DOMAIN-SUFFIX,www.battle.net
 DOMAIN-SUFFIX,account.battle.net
-
 # 强制代理
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,chdbits.co
