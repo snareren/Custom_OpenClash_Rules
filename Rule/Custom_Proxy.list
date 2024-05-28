@@ -1,7 +1,19 @@
-#战网国际服登录
+# 战网国际服登录
 DOMAIN-SUFFIX,eu.battle.net
 DOMAIN-SUFFIX,us.battle.net
 DOMAIN-SUFFIX,kr.battle.net
 DOMAIN-SUFFIX,tw.battle.net
 DOMAIN-SUFFIX,www.battle.net
 DOMAIN-SUFFIX,account.battle.net
+
+# 强制代理
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,hjd.tw
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,proxmox.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,home-assistant.io
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,github.com
