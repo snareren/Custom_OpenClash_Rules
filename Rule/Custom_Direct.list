@@ -41,5 +41,26 @@ DOMAIN,pf-cdn-content-prod.azureedge.net
 DOMAIN-SUFFIX,landiannews.com
 # 5E 对战平台
 DOMAIN-SUFFIX,5eplay.com
-# 松下智能家居
+# 智能家居
 DOMAIN-SUFFIX,psmartcloud.com
+DOMAIN-SUFFIX,narwaltech.com
+DOMAIN-SUFFIX,narwal.com
+# 银行机构
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,amazon.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,cmbc.com.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,bankofluoyang.com.cn
+DOMAIN-SUFFIX,zybank.com.cn
+DOMAIN-SUFFIX,smzdm.com
+DOMAIN-SUFFIX,ceair.com
+DOMAIN-SUFFIX,emirates.com
+# DDNS
+DOMAIN-SUFFIX,myqnapcloud.com
+DOMAIN-SUFFIX,myqnapcloud.io
+DOMAIN-SUFFIX,hichina.com
