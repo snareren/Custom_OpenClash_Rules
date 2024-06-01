@@ -66,3 +66,5 @@ DOMAIN-SUFFIX,emirates.com
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,myqnapcloud.io
 DOMAIN-SUFFIX,hichina.com
+# NTP
+DOMAIN-SUFFIX,ntp.org
