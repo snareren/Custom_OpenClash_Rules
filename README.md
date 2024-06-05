@@ -1,4 +1,5 @@
-Fork from Aethersailor/Custom_OpenClash_Rules,Thanks for Aethersailor
+## Fork from  
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules)
 
 # OpenClash 保姆级设置教程和个人自用 OpenClash 订阅转换模板  
 可能是目前全网最强的 [OpenClash](https://github.com/vernesong/OpenClash) 保姆级图文教程，秒杀一切教程贴！  
