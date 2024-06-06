@@ -18,10 +18,7 @@ https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenClash-设置教�
 国外域名自动走节点远端默认 DNS 解析，一般为机场默认的 DNS 或者你的 VPS 中设置的 DNS  
 理论上，以上取得的均为最快最佳的解析结果，且无污染，无泄露，无需套娃其他工具    
 
-## 关于 IPv6  
-谁说 OpenClash 不能和 IPv6 同时工作？  
-正确设置 OpenWRT 的 IPv6 功能以及 OpenClash，即可实现 IPv6 和 OpenWrt 完美兼容。在实现 IPv6 国内外分流代理的同时通过 IPv6-Test 国内和国外镜像站点测试   
-IPv6 设置教程见本仓库的 Wiki：  
+## IPv6 设置教程 
 https://github.com/Aethersailor/Custom_OpenClash_Rules/wiki/OpenWrt-IPv6-设置教程  
 
 ## 控制面板效果截图  
