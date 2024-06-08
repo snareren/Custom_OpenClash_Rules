@@ -46,13 +46,11 @@ DOMAIN-SUFFIX,psmartcloud.com
 DOMAIN-SUFFIX,narwaltech.com
 DOMAIN-SUFFIX,narwal.com
 # 银行机构
-DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,cmbc.com.cn
-DOMAIN-SUFFIX,bankcomm.com
 DOMAIN-SUFFIX,ly-ftz.com
 DOMAIN-SUFFIX,patriot.ninja
 DOMAIN-SUFFIX,cncbinternational.com
@@ -64,8 +62,6 @@ DOMAIN-SUFFIX,zyebank.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,ceair.com
 DOMAIN-SUFFIX,emirates.com
-DOMAIN-SUFFIX,95516.com
-DOMAIN-SUFFIX,unionpay.com
 # DDNS
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,myqnapcloud.io
