@@ -52,9 +52,6 @@ DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,cmbc.com.cn
 DOMAIN-SUFFIX,ly-ftz.com
 DOMAIN-SUFFIX,patriot.ninja
-DOMAIN-SUFFIX,cncbinternational.com
-DOMAIN-SUFFIX,ecitic.com
-DOMAIN-SUFFIX,citicbank.com
 DOMAIN-SUFFIX,bankofluoyang.com.cn
 DOMAIN-SUFFIX,zybank.com.cn
 DOMAIN-SUFFIX,zybank.com
@@ -62,6 +59,20 @@ DOMAIN-SUFFIX,zyebank.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,ceair.com
 DOMAIN-SUFFIX,emirates.com
+DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citiccapital.com
+DOMAIN-SUFFIX,citiciam.com
+DOMAIN-SUFFIX,chinaamc.com
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,csci.hk
+DOMAIN-SUFFIX,citicsf.com
+DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,citic-prudential.com.cn
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,citicprufunds.com.cn
 # DDNS
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,myqnapcloud.io
