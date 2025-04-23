@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,kodinerds.net
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,qichiyu.com
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
