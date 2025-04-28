@@ -1,6 +1,13 @@
-
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,conductor-prod.ros.rockstargames.com
+DOMAIN-SUFFIX,patches.rockstargames.com
+DOMAIN-SUFFIX,prod.cloud.rockstargames.com
+DOMAIN-SUFFIX,prod.cs.ros.rockstargames.com
+DOMAIN-SUFFIX,prod.p01sjc.pod.rockstargames.com
+DOMAIN-SUFFIX,prod.p02sjc.pod.rockstargames.com
+DOMAIN-SUFFIX,prod.ros.rockstargames.com
+DOMAIN-SUFFIX,prod.telemetry.ros.rockstargames.com
