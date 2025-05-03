@@ -14,18 +14,20 @@ DOMAIN-SUFFIX,kodinerds.net
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,qichiyu.com
-# 国外DNS
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN-SUFFIX,dot.sb
-DOMAIN-SUFFIX,dns.umbrella.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,doh.dns.sb
-DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,hk-hkg.doh.sb
+# GooglePlay 相关
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# PS5 STUN
+DOMAIN-SUFFIX,stun.playstation.net
+# 嵌入式相关
+DOMAIN-SUFFIX,platformio.org
+DOMAIN-SUFFIX,arduino.cc
+# Google 相关
+DOMAIN-SUFFIX,mtalk.google.com
+# EA Desktop 云同步
+DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
 # AI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.openai.com
