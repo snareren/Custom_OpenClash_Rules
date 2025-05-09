@@ -14,17 +14,3 @@ DOMAIN-SUFFIX,kodinerds.net
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,qichiyu.com
-# GooglePlay 相关
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# PS5 STUN
-DOMAIN-SUFFIX,stun.playstation.net
-# 嵌入式相关
-DOMAIN-SUFFIX,platformio.org
-DOMAIN-SUFFIX,arduino.cc
-# Google 相关
-DOMAIN-SUFFIX,mtalk.google.com
-# EA Desktop 云同步
-DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
