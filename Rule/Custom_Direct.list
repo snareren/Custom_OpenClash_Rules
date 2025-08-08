@@ -46,3 +46,5 @@ DOMAIN-SUFFIX,lucky666.cn
 DOMAIN-SUFFIX,ipw.cn
 # NTP
 DOMAIN-SUFFIX,ntp.org
+# 其他
+DOMAIN-SUFFIX,appstorrent.ru
