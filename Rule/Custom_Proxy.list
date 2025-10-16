@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,kodinerds.net
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,ghcr.io
 # GooglePlay 相关
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,clientservices.googleapis.com
