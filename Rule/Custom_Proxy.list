@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
 # GooglePlay 相关
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,clientservices.googleapis.com
