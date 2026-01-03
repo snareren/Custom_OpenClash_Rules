@@ -8,13 +8,16 @@ DOMAIN-SUFFIX,psmartcloud.com
 DOMAIN-SUFFIX,narwaltech.com
 DOMAIN-SUFFIX,narwal.com
 DOMAIN-SUFFIX,ui.com
+# Software
+# DOMAIN-SUFFIX,patriot.ninja
+DOMAIN-SUFFIX,appstorrent.ru
 # 银行机构
 DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,cmbc.com.cn
 DOMAIN-SUFFIX,ly-ftz.com
-# DOMAIN-SUFFIX,patriot.ninja
+
 DOMAIN-SUFFIX,bankofluoyang.com.cn
 DOMAIN-SUFFIX,zybank.com.cn
 DOMAIN-SUFFIX,zybank.com
