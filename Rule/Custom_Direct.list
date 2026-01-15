@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,narwal.com
 DOMAIN-SUFFIX,ui.com
 # Software
 # DOMAIN-SUFFIX,patriot.ninja
-# DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,appstorrent.ru
 # 银行机构
 DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,ccb.com
